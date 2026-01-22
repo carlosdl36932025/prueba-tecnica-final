@@ -9,7 +9,7 @@ Para facilitar la evaluación, se proporcionan las credenciales de API necesaria
 **Variables de Entorno necesarias (`.env`):**
 
 ```env
-VITE_API_URL=[https://6972398232c6bacb12c63e4f.mockapi.io/api/v1](https://6972398232c6bacb12c63e4f.mockapi.io/api/v1)
+VITE_API_URL=https://6972398232c6bacb12c63e4f.mockapi.io/api/v1
 VITE_IMGBB_API_KEY=504a0d417321e200af233ffd4008b857
 ```
 
